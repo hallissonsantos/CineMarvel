@@ -1,0 +1,16 @@
+body{
+    background-color: whitesmoke;
+}
+.nav-extended{
+    background-image: url("Imagens/logo marvel 2.jpg");
+    background-size: cover;
+    background-blend-mode:color-burn;
+    background-position:0%;
+    background-position-x: center;
+    }
+    nav ul li.active, .tab a.active {
+        border-bottom: solid 2px white;
+    }
+    .nav-header h1{
+        text-shadow: 2px 2px 8px black;
+    }
